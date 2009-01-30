@@ -35,7 +35,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#AAAAAA</string>
+                    <string>#BBBBBB</string>
                 </dict>
             </dict>
             <dict>
@@ -60,8 +60,10 @@
                 <string>comment.documentation, comment.block.documentation</string>
                 <key>settings</key>
                 <dict>
+                    <key>background</key>
+                    <string>#FFFDF7</string>
                     <key>foreground</key>
-                    <string>#73B00A</string>
+                    <string>#BC670F</string>
                 </dict>
             </dict>
             <dict>
@@ -221,8 +223,21 @@
                 <string>constant.character, string - string source</string>
                 <key>settings</key>
                 <dict>
+                    <key>background</key>
+                    <string>#FFFDF7</string>
                     <key>foreground</key>
-                    <string>#73B00A</string>
+                    <string>#BC670F</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Strings: Punctuation</string>
+                <key>scope</key>
+                <string>constant.character punctuation, string punctuation</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#E69A4C</string>
                 </dict>
             </dict>
             <dict>
@@ -235,7 +250,7 @@
                     <key>fontStyle</key>
                     <string>bold</string>
                     <key>background</key>
-                    <string>#E8FFD5</string>
+                    <string>#FCEDBC</string>
                 </dict>
             </dict>
             <dict>
@@ -263,7 +278,7 @@
                     <key>fontStyle</key>
                     <string>bold</string>
                     <key>background</key>
-                    <string>#E8FFD5</string>
+                    <string>#FCEDBC</string>
                 </dict>
             </dict>
             <dict>
@@ -296,7 +311,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#AAAAAA</string>
+                    <string>#BBBBBB</string>
                 </dict>
             </dict>
             <dict>
@@ -335,14 +350,18 @@
                 </dict>
             </dict>
             <dict>
+                <key>comment</key>
+                <string>Highlighted like: escape sequences</string>
                 <key>name</key>
                 <string>HTML: Entities</string>
                 <key>scope</key>
                 <string>constant.character.entity</string>
                 <key>settings</key>
                 <dict>
-                    <key>foreground</key>
-                    <string>#73B00A</string>
+                    <!-- <key>fontStyle</key>
+                    <string>bold</string> -->
+                    <key>background</key>
+                    <string>#FCEDBC</string>
                 </dict>
             </dict>
             <dict>
@@ -360,11 +379,24 @@
                 <key>name</key>
                 <string>HTML: Attribute Values</string>
                 <key>scope</key>
-                <string>meta.attribute-with-value string.quoted</string>
+                <string>meta.tag string.quoted</string>
+                <key>settings</key>
+                <dict>
+                    <!-- <key>background</key> -->
+                    <!-- <string>#FFFFFF</string> -->
+                    <key>foreground</key>
+                    <string>#D44950</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>CSS: Selectors</string>
+                <key>scope</key>
+                <string>meta.selector, meta.selector entity, meta.selector entity punctuation, entity.name.tag.css</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#D44950</string>
+                    <string>#3A77BF</string>
                 </dict>
             </dict>
             <dict>
@@ -375,7 +407,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#DF9F4F</string>
+                    <string>#D4430D</string>
                 </dict>
             </dict>
             <dict>
@@ -386,18 +418,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#D44950</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>CSS: Punctuation</string>
-                <key>scope</key>
-                <string>source.css entity.other.attribute-name punctuation.definition</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#DF9F4F</string>
+                    <string>#43A202</string>
                 </dict>
             </dict>
             <dict>
