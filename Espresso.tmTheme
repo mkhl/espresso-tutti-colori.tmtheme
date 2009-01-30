@@ -223,13 +223,11 @@
                 <string>constant.character, string - string source</string>
                 <key>settings</key>
                 <dict>
-                    <key>background</key>
-                    <string>#FFFDF7</string>
                     <key>foreground</key>
-                    <string>#BC670F</string>
+                    <string>#73B00A</string>
                 </dict>
             </dict>
-            <dict>
+            <!-- <dict>
                 <key>name</key>
                 <string>Strings: Punctuation</string>
                 <key>scope</key>
@@ -239,7 +237,7 @@
                     <key>foreground</key>
                     <string>#E69A4C</string>
                 </dict>
-            </dict>
+            </dict> -->
             <dict>
                 <key>name</key>
                 <string>Strings: Escape Sequences</string>
@@ -250,7 +248,7 @@
                     <key>fontStyle</key>
                     <string>bold</string>
                     <key>background</key>
-                    <string>#FCEDBC</string>
+                    <string>#E8FFD5</string>
                 </dict>
             </dict>
             <dict>
@@ -278,7 +276,7 @@
                     <key>fontStyle</key>
                     <string>bold</string>
                     <key>background</key>
-                    <string>#FCEDBC</string>
+                    <string>#E8FFD5</string>
                 </dict>
             </dict>
             <dict>
@@ -358,10 +356,8 @@
                 <string>constant.character.entity</string>
                 <key>settings</key>
                 <dict>
-                    <!-- <key>fontStyle</key>
-                    <string>bold</string> -->
                     <key>background</key>
-                    <string>#FCEDBC</string>
+                    <string>#73B00A</string>
                 </dict>
             </dict>
             <dict>
