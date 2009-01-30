@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?Xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -60,10 +60,8 @@
 			<string>comment.documentation, comment.block.documentation</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#FFFDF7</string>
 				<key>foreground</key>
-				<string>#BC670F</string>
+				<string>#73B00A</string>
 			</dict>
 		</dict>
 		<dict>
