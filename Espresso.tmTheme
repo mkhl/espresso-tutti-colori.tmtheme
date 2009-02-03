@@ -1,4 +1,4 @@
-<?Xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -60,8 +60,10 @@
 			<string>comment.documentation, comment.block.documentation</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFDF7</string>
 				<key>foreground</key>
-				<string>#73B00A</string>
+				<string>#BC670F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,21 +217,21 @@
 			<string>constant.character, string - string source</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFDF7</string>
 				<key>foreground</key>
-				<string>#73B00A</string>
+				<string>#BC670F</string>
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>NOTE: This setting is disabled for now.</string>
 			<key>name</key>
 			<string>Strings: Punctuation</string>
 			<key>scope</key>
 			<string>constant.character punctuation, string punctuation</string>
 			<key>settings</key>
 			<dict>
-				<key>comment</key>
-				<string>foreground: #E69A4C</string>
+				<key>foreground</key>
+				<string>#E69A4C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,7 +242,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#E8FFD5</string>
+				<string>#FCEDBC</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -351,7 +353,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#73B00A</string>
+				<string>#FCEDBC</string>
 			</dict>
 		</dict>
 		<dict>
