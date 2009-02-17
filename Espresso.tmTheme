@@ -427,8 +427,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO: Markup.Deletion stolen form GitHub</string>
 			<key>name</key>
 			<string>Markup: Deletion</string>
 			<key>scope</key>
@@ -466,8 +464,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO Markup.Insertion stolen grom GitHub</string>
 			<key>name</key>
 			<string>Markup: Insertion</string>
 			<key>scope</key>
@@ -481,8 +477,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO Markup.Output stolen from GitHub</string>
 			<key>name</key>
 			<string>Markup: Output</string>
 			<key>scope</key>
@@ -494,8 +488,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO Markup.Prompt stolen form GitHub</string>
 			<key>name</key>
 			<string>Markup: Prompt</string>
 			<key>scope</key>
@@ -553,8 +545,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO Diff Range stolen from GitHub</string>
 			<key>name</key>
 			<string>Extra: Diff Range</string>
 			<key>scope</key>
@@ -568,8 +558,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO Diff From stolen from GitHub</string>
 			<key>name</key>
 			<string>Extra: Diff From</string>
 			<key>scope</key>
@@ -583,8 +571,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>TODO Diff To stolen from GitHub</string>
 			<key>name</key>
 			<string>Extra: Diff To</string>
 			<key>scope</key>
