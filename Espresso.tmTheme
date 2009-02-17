@@ -314,6 +314,12 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>-----------------------------------</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>HTML: Doctype Declaration</string>
 			<key>scope</key>
 			<string>meta.tag.sgml.doctype</string>
@@ -395,6 +401,12 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>-----------------------------------</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>CSS: Selectors</string>
 			<key>scope</key>
 			<string>meta.selector, meta.selector entity, meta.selector entity punctuation, entity.name.tag.css</string>
@@ -425,6 +437,12 @@
 				<key>foreground</key>
 				<string>#43A202</string>
 			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>-----------------------------------</string>
+			<key>settings</key>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -556,6 +574,12 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>-----------------------------------</string>
+			<key>settings</key>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
