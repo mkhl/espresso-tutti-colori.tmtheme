@@ -22,13 +22,13 @@
 				<key>invisibles</key>
 				<string>#AAAAAA</string>
 				<key>lineHighlight</key>
-				<string>#EEEEEE</string>
-                <!-- blue -->
+				<string>#AAAAAA40</string>
+				<!-- blue -->
 				<key>selection</key>
 				<string>#B5D5FF</string>
-                <!-- gold -->
-                <!-- <key>selection</key> -->
-                <!-- <string>#F9EA86</string> -->
+				<!-- gold -->
+				<!-- <key>selection</key> -->
+				<!-- <string>#F9EA86</string> -->
 			</dict>
 		</dict>
 		<dict>
@@ -71,8 +71,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>NOTE: Errors were invisible while under line highlighting, so I reversed the foreground and background colors.</string>
 			<key>name</key>
 			<string>Errors</string>
 			<key>scope</key>
@@ -80,9 +78,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F9F2CE</string>
-				<key>foreground</key>
 				<string>#F93232</string>
+				<key>foreground</key>
+				<string>#F9F2CE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -442,8 +440,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>NOTE: See invalid.illegal.</string>
 			<key>name</key>
 			<string>Markup: Error</string>
 			<key>scope</key>
@@ -451,9 +447,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F9F2CE</string>
-				<key>foreground</key>
 				<string>#F93232</string>
+				<key>foreground</key>
+				<string>#F9F2CE</string>
 			</dict>
 		</dict>
 		<dict>
