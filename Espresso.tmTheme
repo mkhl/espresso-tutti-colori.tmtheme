@@ -428,6 +428,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markup: Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFFDD</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Markup: Deletion</string>
 			<key>scope</key>
 			<string>markup.deleted</string>
