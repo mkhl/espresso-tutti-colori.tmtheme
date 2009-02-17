@@ -157,7 +157,7 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, support.function</string>
+			<string>entity.name.function, support.function, entity</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
