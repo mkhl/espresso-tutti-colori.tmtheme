@@ -229,7 +229,7 @@
 			<key>name</key>
 			<string>Strings</string>
 			<key>scope</key>
-			<string>constant.character, string - string source</string>
+			<string>constant.character, string</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
