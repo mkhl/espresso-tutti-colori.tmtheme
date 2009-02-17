@@ -292,17 +292,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Strings: Embedded Source</string>
-			<key>scope</key>
-			<string>string source</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#434343</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
 			<string>punctuation</string>
@@ -310,6 +299,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#7F7F7F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded Source</string>
+			<key>scope</key>
+			<string>string source, text source</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#434343</string>
 			</dict>
 		</dict>
 		<dict>
