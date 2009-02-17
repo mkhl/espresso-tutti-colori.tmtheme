@@ -20,7 +20,7 @@
 				<key>foreground</key>
 				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#CCCCCC</string>
+				<string>#AAAAAA</string>
 				<key>lineHighlight</key>
 				<string>#EEEEEE</string>
 				<key>selection</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AAAAAA</string>
+				<string>#7F7F7F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -124,7 +124,7 @@
 				<key>background</key>
 				<string>#F3F2FF</string>
 				<key>foreground</key>
-				<string>#7653C1;</string>
+				<string>#7653C1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +305,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AAAAAA</string>
+				<string>#7F7F7F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -477,7 +477,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#888888</string>
+				<string>#7F7F7F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -551,7 +551,7 @@
 				<key>background</key>
 				<string>#EAF2F5</string>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#434343</string>
 			</dict>
 		</dict>
 		<dict>
@@ -566,7 +566,7 @@
 				<key>background</key>
 				<string>#FFDDDD</string>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#434343</string>
 			</dict>
 		</dict>
 		<dict>
@@ -581,7 +581,7 @@
 				<key>background</key>
 				<string>#DDFFDD</string>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#434343</string>
 			</dict>
 		</dict>
 	</array>
