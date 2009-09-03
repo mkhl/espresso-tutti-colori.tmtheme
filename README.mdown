@@ -3,8 +3,8 @@
 A [TextMate][] theme based on the default [Espresso][] theme.
 
 I really like the default Espresso colors, so I created a theme from them to
-keep me warm while the amount of Sugar for it increases to comfortable levels
-;-)
+keep me warm while the amount of Sugar increases to comfortable levels.
+
 
 ## Installation
 
