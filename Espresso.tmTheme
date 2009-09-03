@@ -23,15 +23,8 @@
 				<string>#AAAAAA</string>
 				<key>lineHighlight</key>
 				<string>#AAAAAA40</string>
-				<!-- blue -->
 				<key>selection</key>
-				<string>#B5D5FF</string>
-				<!-- gold -->
-				<!-- <key>selection</key> -->
-				<!-- <string>#F9EA86</string> -->
-				<!-- green -->
-				<!-- <key>selection</key> -->
-				<!-- <string>D2F59E</string> -->
+				<string>#C9D0D9</string>
 			</dict>
 		</dict>
 		<dict>
